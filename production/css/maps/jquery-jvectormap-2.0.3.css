@@ -22,6 +22,7 @@ svg {
     padding: 3px;
 }
 
+
 .jvectormap-zoomin, .jvectormap-zoomout, .jvectormap-goback {
     position: absolute;
     left: 10px;
