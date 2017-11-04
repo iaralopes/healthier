@@ -2473,14 +2473,14 @@ if (typeof NProgress != 'undefined') {
 				  },
 				  editable: true,
 				  events: [{
-					title: 'All Day Event',
+					title: 'Insulina',
 					start: new Date(y, m, 1)
 				  }, {
 					title: 'Long Event',
 					start: new Date(y, m, d - 5),
 					end: new Date(y, m, d - 2)
 				  }, {
-					title: 'Meeting',
+					title: 'Insulina',
 					start: new Date(y, m, d, 10, 30),
 					allDay: false
 				  }, {
