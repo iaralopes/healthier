@@ -2476,7 +2476,7 @@ if (typeof NProgress != 'undefined') {
 					title: 'Insulina',
 					start: new Date(y, m, 1)
 				  }, {
-					title: 'Long Event',
+					title: 'juhuhuEvent',
 					start: new Date(y, m, d - 5),
 					end: new Date(y, m, d - 2)
 				  }, {
